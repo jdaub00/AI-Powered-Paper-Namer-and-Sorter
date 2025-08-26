@@ -5,14 +5,14 @@ AI Paper Sorter is a desktop utility for organizing research papers (PDFs) using
 ---
 
 ## Features
-- 📂 **Drag-and-drop** or browse to add papers.  
-- 🤖 **AI-powered metadata extraction** (title, author, year, journal) using Google Gemini.  
-- ✍️ **Filename proposal & editing dialog** before saving.  
-- 🗂 **Interactive folder picker** for choosing destinations.  
-- 📝 **Duplicate detection** with user confirmation.  
-- 🔍 **Rename existing PDFs** in bulk with AI-suggested names.  
-- ⏳ **Background watcher** (`watch_and_launch.py`) that starts the GUI automatically when new papers arrive in the `ToSort` folder.  
-- 🌙 **Dark mode interface** powered by [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter).  
+- **Drag-and-drop** or browse to add papers.  
+- **AI-powered metadata extraction** (title, author, year, journal) using Google Gemini.  
+- **Filename proposal & editing dialog** before saving.  
+- **Interactive folder picker** for choosing destinations.  
+- **Duplicate detection** with user confirmation.  
+- **Rename existing PDFs** in bulk with AI-suggested names.  
+- **Background watcher** (`watch_and_launch.py`) that starts the GUI automatically when new papers arrive in the `ToSort` folder.  
+- **Dark mode interface** powered by [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter).  
 
 ---
 
